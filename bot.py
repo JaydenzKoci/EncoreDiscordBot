@@ -13,7 +13,7 @@ import statistics
 import os
 import random
 
-BOT_TOKEN = "MTM5MTY5Nzc0NzQ3OTg4ODAzMg.GzcUyp.hOFWocNK5jaCrYTUgWjkNTzx80UsLNxLDpYp_Y"
+BOT_TOKEN = ""
 JSON_DATA_URL = "https://raw.githubusercontent.com/JaydenzKoci/jaydenzkoci.github.io/refs/heads/main/data/tracks.json"
 ASSET_BASE_URL = "https://jaydenzkoci.github.io"
 CONFIG_FILE = "config.json"
